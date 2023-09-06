@@ -18,3 +18,7 @@
 * chicken cafreal
 * Prawn Balchao
 * Patolea
+
+*Link to the MyStats.md*
+
+[MyStats.md](MyStats.md)
