@@ -5,13 +5,16 @@
 
 ---
 
-### List of Activities
+### Top Activities to do in Goa
 
 1. Snorkeling
 2. Hot Air Ballooning
 3. Spice Plantation Tour
 4. Beach Hopping
 
-* Fish Curry
+### dishes of food to try at Goa
+
+* Goan Fish Curry
 * chicken cafreal
 * Prawn Balchao
+* Patolea
