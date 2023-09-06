@@ -46,3 +46,25 @@ Sports are physical activities or games that involve organized competition, skil
 
 >*Isaac Newton* : "To every action, there is always an equal and opposite reaction."
 
+---
+
+### Code Fencing
+
+>***Question : How do you post to an iframe?** [Link of Stackoverflow](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe#:~:text=Set%20the%20target%20attribute%20of,name%20of%20the%20iframe%20tag.&text=The%20iframe%20can%20be%20set,opened%20before%20submitting%20the%20form.)
+
+### Code Snippet
+
+```
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+
+[Code Snippet Link](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
