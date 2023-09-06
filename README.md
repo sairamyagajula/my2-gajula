@@ -12,7 +12,7 @@
 3. Spice Plantation Tour
 4. Beach Hopping
 
-### dishes of food to try at Goa
+### Dishes of food to try at Goa
 
 * Goan Fish Curry
 * chicken cafreal
