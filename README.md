@@ -36,3 +36,13 @@ Sports are physical activities or games that involve organized competition, skil
 | Golf | Enjoy leisurely outdoor activity, focus | 4-7 hours |
 | Cricket | Improve cardiovascular health and teamwork | 5 hours |
 
+---
+
+### Pithy Quotes
+
+>*Stephen Hawking* : "Remember to look up at the stars and not down at your feet."<br>
+
+>*Dr. A.P.J. Abdul Kalam* : "Success is when your signature changes to Autograph."
+
+>*Isaac Newton* : "To every action, there is always an equal and opposite reaction."
+
